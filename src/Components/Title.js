@@ -4,14 +4,14 @@ import React from 'react';
 const Title = () =>{
 
     return(
-        <div>
-        <h1>Fire_Gallery</h1>
-        <h1> Your Pictures</h1>
-        <p> One Stop Photo Gallery</p>
+        <div className='title'>
+        <h1>FireGallery</h1>
+        <h2> Your Pictures</h2>
+        <p> Your Number One Photo Gallery</p>
         </div>
     )
 
    
 }
-export default Title
+export default Title;
 
